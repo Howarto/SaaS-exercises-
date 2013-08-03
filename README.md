@@ -6,5 +6,5 @@ Exercises for help other people because sometimes you need a little help.
 This exercises is for see differents ways to do SaaS exercises. I also saw differents codes of other people for propose a solution or understand how I can do. For this, remember if you only do copy paste, you won't be better, you will be one more that no understand nothing.
 
 HW1 => ALL
-HW2 => See the "readme" in the folder
+HW2 => See the "readme" file in the folder
 HW3 => ALL
