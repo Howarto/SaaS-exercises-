@@ -1,0 +1,3 @@
+Sorry but I had a error with spec in Ubuntu and now coverage test fails...
+
+For this, I put other file of other user (Rillian) for people. I will work with this :/
